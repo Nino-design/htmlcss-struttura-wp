@@ -42,14 +42,13 @@
 
 .blue-box{
     width: 100%;
-    height: 350px;
     margin-top: 15px;
     background-color: #0287fe;
 }
 
 .blue-side{
     width: 20%;
-    height: calc(88% - 30px);
+    height: 280px;
     margin: 15px 0;
     background-color: #abcfe7;
     float: left;
